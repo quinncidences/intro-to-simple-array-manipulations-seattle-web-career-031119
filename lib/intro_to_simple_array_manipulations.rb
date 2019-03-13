@@ -27,7 +27,7 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, value)
-  array.insert(3, value)
+  array.insert(4, value)
 end
 
 def using_uniq(captain_planet_and_the_planateers)
