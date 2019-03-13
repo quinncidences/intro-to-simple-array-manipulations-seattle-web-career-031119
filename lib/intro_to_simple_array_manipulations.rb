@@ -30,8 +30,8 @@ def using_insert(array, value)
   array.insert(4, value)
 end
 
-def using_uniq(captain_planet_and_the_planateers)
-  captain_planet_and_the_planateers.uniq
+def using_uniq(array)
+  array.uniq
 end
 
 def using_flatten(private_colleges_in_newyork)
