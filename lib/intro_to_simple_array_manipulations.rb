@@ -7,7 +7,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  array.po
+  array.pop
 end
 
 def pop_with_args(chars_arya_killed)
