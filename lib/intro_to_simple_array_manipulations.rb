@@ -14,7 +14,7 @@ def pop_with_args(array)
   array.pop(2)
 end
 
-def using_shift(im_so_over_this_city)
+def using_shift(ty)
   im_so_over_this_city.shift
 end
 
