@@ -10,8 +10,8 @@ def using_pop(array)
   array.pop
 end
 
-def pop_with_args(chars_arya_killed)
-  chars_arya_killed.pop(2)
+def pop_with_args(array)
+  array.pop[-2..-1]
 end
 
 def using_shift(im_so_over_this_city)
