@@ -18,8 +18,8 @@ def using_shift(array)
   array.shift
 end
 
-def shift_with_args(brands_removed)
-  brands_removed.shift(2)
+def shift_with_args(array)
+  array.shift(2)
 end
 
 def using_concat(my_favorite_things, more_favs)
