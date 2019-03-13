@@ -6,8 +6,8 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-def using_pop(great_hits_of_the_nineties)
-  great_hits_of_the_nineties.pop
+def using_pop(array)
+  array.pop
 end
 
 def pop_with_args(chars_arya_killed)
